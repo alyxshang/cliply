@@ -16,7 +16,7 @@ To use ***Cliply*** in your Rust project, add this line to your project's `Cargo
 cliply = { git = "https://github.com/alyxshang/cliply", tag = "v.0.1.0" }
 ```
 
-To find out exactly how to use the library, please refer to the "Example" section below or clone this repository and run the command `cargo doc --open` from the repository's root.
+To find out exactly how to use the library, please refer to the "Example" section below or clone this repository and run the command `cargo doc --open` from the repository's root to view the API documentation.
 
 ## EXAMPLE :sparkles:
 
