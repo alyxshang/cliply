@@ -1,6 +1,6 @@
 # CLIPLY :minidisc:
 
-***Making command-line interfaces in Rust easy. :minidisc:***
+***Making CLI applications in Rust easy. :minidisc:***
 
 ![GitHub CI](https://github.com/alyxshang/cliply/actions/workflows/rust.yml/badge.svg)
 
