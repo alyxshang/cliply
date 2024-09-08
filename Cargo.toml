@@ -1,0 +1,21 @@
+[package]
+name = "cliply"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+author = ["Alyx Shang"]
+description= "Making command-line interfaces in Rust easy."
+homepage = "https://github.com/alyxshang/cliply"
+repository = "https://github.com/alyxshang/cliply"
+readme = "README.markdown"
+keywords = [
+	"argument",
+	"cli",
+	"arg",
+	"parser",
+]
+categories = ["command-line-interface"]
+exclude = ["/.github", ".gitignore"]
+
+[dependencies]
+coutils = { git = "https://github.com/alyxshang/coutils", tag = "v.0.1.0" }
